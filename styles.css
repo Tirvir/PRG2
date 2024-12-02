@@ -1,0 +1,24 @@
+nav{
+    background-color: crimson;
+}
+li{
+    display: inline;
+    color: white;
+    font-size: 20px;
+}
+img{
+    border-radius: 50px;
+    width: 200px;
+    height: 400px;
+}
+main{
+    display: flex;
+    flex-flow: row wrap;
+    align-items: center;
+    gap: 40px;
+}
+nav{
+    background-color:black;
+    display: flex;
+    gap: 20px;
+}
